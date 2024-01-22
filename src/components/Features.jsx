@@ -2,19 +2,19 @@ import { CloudArrowUpIcon, LockClosedIcon, ServerIcon } from '@heroicons/react/2
 
 const features = [
   {
-    name: 'Push to deploy.',
+    name: 'Portfolio building.',
     description:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.',
+      'Portfolio building with free airdrops, coin presales, coins which pump 2x, and 1 coin per month which pumps 30x+, best sources to invest for daily passive income',
     icon: CloudArrowUpIcon,
   },
   {
-    name: 'SSL certificates.',
-    description: 'Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.',
+    name: 'On demand coin analysis.',
+    description: 'On demand coin analysis includes coins which are requested by the people, insider info on those coins',
     icon: LockClosedIcon,
   },
   {
-    name: 'Database backups.',
-    description: 'Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.',
+    name: 'Free insights.',
+    description: 'We offer a lot of value for free which will uplift your expectations and portfolio',
     icon: ServerIcon,
   },
 ]
